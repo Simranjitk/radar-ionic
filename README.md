@@ -1,18 +1,24 @@
 # Radar Ionic Plugin
 
-[Radar](https://radar.io/) is a location platform for mobile apps.
+[Radar](https://radar.io/) is a location platform for mobile apps. This Ionic plugin let's you use Radar features in your Ionic application.
+
+[![npm version](https://badge.fury.io/js/ionic-radar@2x.png)](https://badge.fury.io/js/ionic-radar)
 
 ## Available Radar Functions
 
-- Tracking
-- Stop Tracking
-- Set UserID
-- Get Permission
-- Check Permissions
+- [Tracking](https://github.com/Simranjitk/radar-ionic#start-tracking)
+- [Stop Tracking](https://github.com/Simranjitk/radar-ionic#stop-tracking)
+- [Set UserID](https://github.com/Simranjitk/radar-ionic#set-user-id)
+- [Get Permission](https://github.com/Simranjitk/radar-ionic#get-permission)
+- [Check Permissions](https://github.com/Simranjitk/radar-ionic#check-permission)
 
 ## Installation
 
 ------
+
+```typescript
+npm install ionic-radar --save
+```
 
 
 
