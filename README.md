@@ -17,7 +17,7 @@
 ------
 
 ```typescript
-npm install ionic-radar --save
+ionic cordova plugin add ionic-radar
 ```
 
 
