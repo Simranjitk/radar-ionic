@@ -1,0 +1,25 @@
+{
+  "name": "ionic-radar",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "ionic-radar",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "description": "Ionic plugin for Radar, a location platform for mobile apps.",
+  "keywords": [
+    "radar",
+    "location",
+    "geolocation",
+    "geofence",
+    "realtime",
+    "locationmonitoring"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Simranjit Kamboj",
+    "url": "https://github.com/Simranjitk"
+  }
+}
