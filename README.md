@@ -1,3 +1,5 @@
+<img src="https://github.com/teneresa/radar-ionic/blob/master/Logo_files/Logo_RadarIonic_low_res.png"/>
+
 # Radar Ionic Plugin
 
 [Radar](https://radar.io/) is a location platform for mobile apps. This Ionic plugin let's you use Radar features in your Ionic application.
